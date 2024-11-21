@@ -8,8 +8,8 @@ param functionAppUsePremiumSku = true
 
 param webAppName = 'ai-llm-processing-demo'
 param webAppUsePasswordAuth = true
-param webAppUsername = 'admin'
-param webAppPassword = 'password'
+param webAppUsername = 'demo'
+param webAppPassword = 'demo@163.com'
 
 // Other resources
 param resourcePrefix = 'llm-proc'
