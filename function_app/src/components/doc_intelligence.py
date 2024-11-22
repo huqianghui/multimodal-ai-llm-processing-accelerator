@@ -7,6 +7,7 @@ from dataclasses import dataclass
 from enum import Enum
 from typing import Any, Dict, List, Literal, Optional, Tuple, Union
 
+
 import pandas as pd
 from azure.ai.documentintelligence._model_base import Model as DocumentModelBase
 from azure.ai.documentintelligence.models import (
